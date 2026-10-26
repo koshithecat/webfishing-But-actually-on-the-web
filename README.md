@@ -14,4 +14,4 @@ this game was made by **_lamedeveloper_** original game on steam and itch.io
 
 im just making a copy of the itch.io version to play and modify/learn from the code  
 
-[Play the game here](https://koshithecat.github.io/webfishing-But-actually-on-the-web/autumn_webfishing_main.html)
+[Play the old game here on this site](https://koshithecat.github.io/webfishing-But-actually-on-the-web/autumn_webfishing_main.html)
