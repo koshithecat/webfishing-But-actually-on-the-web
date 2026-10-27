@@ -8,6 +8,8 @@ this game was made by **_lamedeveloper_** original game on steam and itch.io
 
 **I AM NOT THE CREATOR OF THE GAME** i just wanted to make a fork of it and mod it  
 
+these are the ***OFFICIAL*** versions of the game \/ play these first at least or if you have then have fun!  
+
 [itch.io version](https://lamedeveloper.itch.io/webfishing)  
 
 [Steam game](https://store.steampowered.com/app/3146520/WEBFISHING/)  
