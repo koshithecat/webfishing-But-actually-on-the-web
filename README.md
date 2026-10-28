@@ -10,10 +10,10 @@ this game was made by **_lamedeveloper_** original game on steam and itch.io
 
 these are the ***OFFICIAL*** versions of the game \/ play these first at least or if you have then have fun!  
 
-[itch.io version](https://lamedeveloper.itch.io/webfishing)  
+[ORIGINAL itch.io version](https://lamedeveloper.itch.io/webfishing)  
 
-[Steam game](https://store.steampowered.com/app/3146520/WEBFISHING/)  
+[ORIGINAL Steam game](https://store.steampowered.com/app/3146520/WEBFISHING/)  
 
 im just making a copy of the itch.io version to play and modify/learn from the code  
 
-[Play the old game here on this site](https://koshithecat.github.io/webfishing-But-actually-on-the-web/autumn_webfishing_main.html)
+[Play my version of the old game here on this site](https://koshithecat.github.io/webfishing-But-actually-on-the-web/autumn_webfishing_main.html)
