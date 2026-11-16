@@ -5,6 +5,9 @@ I decided to make a copy of the Itch.io version of webfishing so i can modify it
 3. because theres not enough webfishing content at the moment
 ## Links and other info
 this game was made by **_lamedeveloper_** original game on steam and itch.io  
+if you want to contact me about this game email me or message me at
+Email: koshiycat@gmail.com
+Discord: _koshiy
 
 **I AM NOT THE CREATOR OF THE GAME** i just wanted to make a fork of it and mod it  
 
