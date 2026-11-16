@@ -17,3 +17,6 @@ these are the ***OFFICIAL*** versions of the game \/ play these first at least o
 im just making a copy of the itch.io version to play and modify/learn from the code  
 
 [Play my version of the old game here on this site](https://koshithecat.github.io/webfishing-But-actually-on-the-web/autumn_webfishing_main.html)
+
+### art
+<img width="973" height="745" alt="image-3" src="https://github.com/user-attachments/assets/1936c380-49c4-490d-80cc-29737b893e4f" />
